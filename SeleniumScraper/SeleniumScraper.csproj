@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="3.141.0"/>
+    <PackageReference Include="Selenium.Mozilla.Firefox.Webdriver" Version="0.6.0.1"/>
+    <PackageReference Include="Selenium.Firefox.WebDriver" Version="0.26.0"/>
+    <PackageReference Include="Selenium.WebDriver.ChromeDriver" Version="80.0.3987.10600"/>
+    <PackageReference Include="Selenium.Chrome.WebDriver" Version="79.0.0"/>
+  </ItemGroup>
+</Project>

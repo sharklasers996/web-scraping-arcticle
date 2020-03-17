@@ -1,0 +1,17 @@
+﻿<div id="container">
+    <p>Button will appear in 2 seconds!</p>
+</div>
+<script>
+(function() {
+    setTimeout(function (){
+        var element = document.getElementById('container');
+
+        var button = document.createElement('a');
+        button.setAttribute('href', 'https://secret.link');
+        button.setAttribute('class', 'btn btn-primary');
+        button.innerHTML = 'Secret Button';
+
+        element.appendChild(button);
+    }, 2000);
+})();
+</script>
