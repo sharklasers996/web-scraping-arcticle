@@ -1,5 +1,5 @@
 # Introductory Guide for Scraping Internet Pages for Automatic Data Extraction or Testing
-Ineternet contains a vast amount of information and we use web browsers to display that information in a structured way, as web pages. This lets us easily navigate different sites and parse information they have.
+Internet contains a vast amount of information and we use web browsers to display that information in a structured way, as web pages. This lets us easily navigate different sites and parse information they have.
 Performing this task from perspective of code, would be called web crawling and web scraping, two terms sometimes used interchangeably, but both having something to do with the process of extracting information. How and where that information can be used? There are as many answers, as there are web sites online, and more. This information can be a great resource to build applications around, and knowledge of writing such code can also be used for automated web testing.
 
 # Web Crawling and Scraping
